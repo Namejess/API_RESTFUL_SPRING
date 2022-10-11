@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS employees;
+--DROP TABLE IF EXISTS employees;
  
 CREATE TABLE employees (
   id INT AUTO_INCREMENT  PRIMARY KEY,
